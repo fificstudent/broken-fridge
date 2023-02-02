@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/broken-fridge/static/js/main.fd23881d.js",
+    "static/js/845.bc59aa37.chunk.js": "/broken-fridge/static/js/845.bc59aa37.chunk.js",
+    "static/js/787.bdfc4075.chunk.js": "/broken-fridge/static/js/787.bdfc4075.chunk.js",
+    "static/media/fire-house-alarm-83490.mp3": "/broken-fridge/static/media/fire-house-alarm-83490.296457fb664b9a0fff52.mp3",
+    "index.html": "/broken-fridge/index.html",
+    "main.fd23881d.js.map": "/broken-fridge/static/js/main.fd23881d.js.map",
+    "845.bc59aa37.chunk.js.map": "/broken-fridge/static/js/845.bc59aa37.chunk.js.map",
+    "787.bdfc4075.chunk.js.map": "/broken-fridge/static/js/787.bdfc4075.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fd23881d.js"
+  ]
+}
